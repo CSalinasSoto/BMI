@@ -239,6 +239,7 @@
 				9C2C16C31D91625D00443C71 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
